@@ -1,0 +1,56 @@
+#+TITLE: Test Story
+
+* Characters
+- Jack
+- Jill
+
+* Relationships
+** Jack // Jill
+- Characters
+  - Jack
+  - Jill
+- Status
+  - Positive
+
+* Naratives
+** 1
+*** Body
+Jack and Jill went up the hill
+to fetch a pail of water
+*** Decisions
+**** Fall Down
+- Body :: Fall down on your face because you suck.
+- NextNarrative :: 2
+**** Not Suck
+- Body :: Walk like a person because you don't suck.
+- NextNarrative :: 4
+
+** 2
+*** Body
+Jack fell down and broke his crown
+and Jill came tumbling after
+*** Decisions
+**** Get Up
+- Body :: Get back up and run home crying.
+- NextNarrative :: 3
+**** Stay Down
+- Body :: Get back up and get more water.
+- NextNarrative :: 1
+**** Stay Down
+- Body :: Wallow in self-pity.
+- NextNarrative :: 5
+
+** 3
+*** Body
+Jack got up, and home did trot
+As fast as he could caper
+To old Dame Dob, who patched his nob
+With vinegar and brown paper
+
+** 4
+*** Body
+You successfully bring water home.
+
+** 5
+*** Body
+You lie there like a bitch.
